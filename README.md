@@ -1,6 +1,6 @@
 ### Hola como estas? 👋
 Soy Analista de Sistemas y Desarrollador de Software con experiencia tanto del lado técnico como funcional.Me encanta investigar y solucionar cosas 🤔
-Aqui dejo algunas muestras de mmis conocimientos y trabajos 📖
+Aqui dejo algunas muestras de mis conocimientos y trabajos 📖
 
 ------------------------------------------------------------------
 Hi how are you? 👋
