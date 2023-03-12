@@ -1,4 +1,4 @@
-### Hola como estas? Espero que te vaya bien! 👋
+Hola como estas? Espero que te vaya bien! 👋
 Soy Analista de Sistemas y Desarrollador de Software con experiencia tanto del lado técnico como funcional.Me encanta investigar y solucionar cosas 🤔
 Aqui dejo algunas muestras de mis conocimientos y trabajos 📖
 
